@@ -4,7 +4,7 @@ import BMICalculatorComponent from "./BMICalculatorComponent";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App container">
       <BMICalculatorComponent />
     </div>
   );
